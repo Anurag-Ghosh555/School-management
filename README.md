@@ -1,40 +1,44 @@
-🎓 School Management System
-A robust and user-friendly School Management System built using PHP and MySQL, designed to simplify and streamline the administration of schools.
+# 🎓 School Management System
 
-🚀 Features
-Secure Login System – Admin authentication
+A robust and user-friendly **School Management System** built using **PHP** and **MySQL**, designed to simplify and streamline the administration of schools.
 
-Student Management – Add, update, and view student records
+---
 
-Teacher Management – Manage faculty profiles and subjects
+## 🚀 Features
 
-Class Scheduling – Organize classes and set timetables
+- **Secure Login System** – Admin authentication  
+- **Student Management** – Add, update, and view student records  
+- **Teacher Management** – Manage faculty profiles and subjects  
+- **Class Scheduling** – Organize classes and set timetables  
+- **Attendance Tracking** – Record and monitor student attendance  
+- **Event Management** – Plan and manage school events  
+- **Feedback System** – Collect and view feedback  
+- **Transport Management** – Manage bus routes and student transportation  
+- **Complaint Handling** – Submit and resolve complaints  
+- **Extracurricular Activities** – Keep track of co-curricular engagements  
 
-Attendance Tracking – Record and monitor student attendance
+---
 
-Event Management – Plan and manage school events
+## 🛠️ Tech Stack
 
-Feedback System – Collect and view feedback
+- **Frontend**: HTML  
+- **Backend**: PHP  
+- **Database**: MySQL  
 
-Transport Management – Manage bus routes and student transportation
+---
 
-Complaint Handling – Submit and resolve complaints
+## 🤝 Contributing
 
-Extracurricular Activities – Keep track of co-curricular engagements
+Contributions are welcome!  
 
-🛠️ Tech Stack
-Frontend: HTML
+---
 
-Backend: PHP
+## 📄 License
 
-Database: MySQL
+This project is licensed under the **MIT License**.
 
-🤝 Contributing
-Contributions are welcome!
-Feel free to fork the project and submit a pull request.
+---
 
-📄 License
-This project is licensed under the MIT License.
+## 👨‍💻 Made By
 
-👨‍💻 Made By
-Anurag Ghosh and Anusha
+**Anurag Ghosh** and **Anusha**
